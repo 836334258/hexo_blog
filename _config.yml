@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: King博客
+subtitle: '博客'
 description: ''
 keywords:
-author: John Doe
+author: King
 language: en
 timezone: ''
 
@@ -103,4 +103,10 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: sftp
+  host: 39.108.225.125
+  user: root
+  pass: 1996525JINhai
+  remotePath: /www/hexo_blog/source
+  port: 22
+
