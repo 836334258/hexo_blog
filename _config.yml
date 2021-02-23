@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: King博客
+title: King的博客
 subtitle: '博客'
-description: ''
-keywords:
+description: 'King博客'
+keywords: 博客 King
 author: King
-language: en
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://jinhaitao.work
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -107,6 +107,6 @@ deploy:
   host: 39.108.225.125
   user: root
   pass: 1996525JINhai
-  remotePath: /www/hexo_blog/source
+  remotePath: /www/hexo_blog/public
   port: 22
 
