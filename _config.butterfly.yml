@@ -122,9 +122,9 @@ note:
   # Offset also applied to label tag variables. This option can work with disabled note tag.
   light_bg_offset: 0
 
-custom_text: 备案号： <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备19007985号</a>!
+custom_text: '备案号： <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备19007985号</a>!'
 
-baidu_analytics: https://hm.baidu.com/hm.js?e261df6dfda9f69a5d48180d04b76d4e
+baidu_analytics: 'https://hm.baidu.com/hm.js?e261df6dfda9f69a5d48180d04b76d4e'
 
 canvas_ribbon:
   enable: true
