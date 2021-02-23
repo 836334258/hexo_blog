@@ -5,7 +5,7 @@
 # Site
 title: King的博客
 subtitle: '博客'
-description: 'King博客'
+description: 'King博客,对代码的日常记录'
 keywords: 博客 King
 author: King
 language: zh-CN
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
